@@ -21,7 +21,7 @@ Light grayish blue: hsl(210, 46%, 95%) */
 body {
   font-size: 13px;
   font-family: "Barlow Semi Condensed", Arial, Helvetica, sans-serif;
-  background-color: hsl(0, 0%, 81%);
+  background-color: hsl(210, 46%, 95%);
   transform: translate(0%, 10%);
 }
 
